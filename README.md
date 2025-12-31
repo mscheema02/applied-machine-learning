@@ -1,4 +1,4 @@
-# Applied Machine Learning — Classification Pipelines (Assignment 3)
+# Applied Machine Learning — Classification Pipelines
 
 This project showcases **end-to-end supervised classification** workflows across multiple datasets, including a **cost-sensitive risk/default classifier** where the goal is to minimize **business cost** (not just error rate).
 
