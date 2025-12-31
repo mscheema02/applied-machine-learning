@@ -139,7 +139,7 @@ Ranking by **lowest average error rate** across datasets:
 ---
 
 ### Q5 — Cost-Sensitive Risk Classification (Default Prediction)
-This is the capstone pipeline and the most “real-world” part of the assignment: the evaluation target is **business cost**, not accuracy.
+“Real-world” part of the assignment: the evaluation target is **business cost**, not accuracy.
 
 #### Pipeline summary
 - **Feature engineering:** date parsing into `year/month/day`
